@@ -39,11 +39,11 @@ Current Phase Status
 
 Phase 1 – Literature Survey & Research Gap Identification : Completed  
 Phase 2 – Dataset Selection & Data Preprocessing  : Completed 
-Phase 3 – EDA & Feature Engineering  : Completed
-Phase 4 – Baseline Machine Learning Model Training : Completed 
-Phase 5 – Optuna Hyperparameter Optimization  : Completed 
-Phase 6 – Model Evaluation & Best Model Selection  : Completed
-Phase 7 – SHAP & LIME Explainability : Completed
-Phase 8 – Risk Score & Early-Warning Development  : Completed  
-Phase 9 – Interactive Dashboard Development : Completed 
+Phase 3 – EDA & Feature Engineering  :  Completed
+Phase 4 – Baseline Machine Learning Model Training :  Completed 
+Phase 5 – Optuna Hyperparameter Optimization  :  Completed 
+Phase 6 – Model Evaluation & Best Model Selection  :  Completed
+Phase 7 – SHAP & LIME Explainability :  Completed
+Phase 8 – Risk Score & Early-Warning Development  :  Completed  
+Phase 9 – Interactive Dashboard Development :  Completed 
 Phase 10 – Testing, Research Paper & Finalization : In progress
