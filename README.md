@@ -1,5 +1,5 @@
 # KLH-AI-DS-2026-27-8-FinancialRiskML
-Title: Enhancing Financial Risk Management Through Machine Learning Analytics
+Title: Dynamic Risk Intelligence Engine: A Novel Hybrid Optuna-Tuned Ensemble Architecture with Dual-Layer Model-Agnostic Explainability (XAI) for Automated Credit Underwriting
 
 Batch No: 8
 
